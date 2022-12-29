@@ -1,0 +1,17 @@
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.csproj.AssemblyReference.cache
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.AssemblyInfoInputs.cache
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.AssemblyInfo.cs
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.csproj.CoreCompileInputs.cache
+D:\VS project\.NET\Clips\Clips.Dal\bin\Debug\net7.0\Clips.Dal.deps.json
+D:\VS project\.NET\Clips\Clips.Dal\bin\Debug\net7.0\Clips.Dal.runtimeconfig.json
+D:\VS project\.NET\Clips\Clips.Dal\bin\Debug\net7.0\Clips.Dal.dll
+D:\VS project\.NET\Clips\Clips.Dal\bin\Debug\net7.0\Clips.Dal.pdb
+D:\VS project\.NET\Clips\Clips.Dal\bin\Debug\net7.0\Clips.Models.dll
+D:\VS project\.NET\Clips\Clips.Dal\bin\Debug\net7.0\Clips.Models.pdb
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.csproj.CopyComplete
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.dll
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\refint\Clips.Dal.dll
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.pdb
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\Clips.Dal.genruntimeconfig.cache
+D:\VS project\.NET\Clips\Clips.Dal\obj\Debug\net7.0\ref\Clips.Dal.dll

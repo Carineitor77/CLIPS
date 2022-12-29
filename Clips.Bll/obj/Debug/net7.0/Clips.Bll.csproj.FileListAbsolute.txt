@@ -1,0 +1,15 @@
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.csproj.AssemblyReference.cache
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.AssemblyInfoInputs.cache
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.AssemblyInfo.cs
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.csproj.CoreCompileInputs.cache
+D:\VS project\.NET\Clips\Clips.Bll\bin\Debug\net7.0\Clips.Bll.deps.json
+D:\VS project\.NET\Clips\Clips.Bll\bin\Debug\net7.0\Clips.Bll.dll
+D:\VS project\.NET\Clips\Clips.Bll\bin\Debug\net7.0\Clips.Bll.pdb
+D:\VS project\.NET\Clips\Clips.Bll\bin\Debug\net7.0\Clips.Models.dll
+D:\VS project\.NET\Clips\Clips.Bll\bin\Debug\net7.0\Clips.Models.pdb
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.csproj.CopyComplete
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.dll
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\refint\Clips.Bll.dll
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\Clips.Bll.pdb
+D:\VS project\.NET\Clips\Clips.Bll\obj\Debug\net7.0\ref\Clips.Bll.dll

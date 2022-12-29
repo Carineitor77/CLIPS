@@ -1,0 +1,12 @@
+D:\VS project\.NET\Clips\Clips.Models\bin\Debug\net7.0\Clips.Models.deps.json
+D:\VS project\.NET\Clips\Clips.Models\bin\Debug\net7.0\Clips.Models.dll
+D:\VS project\.NET\Clips\Clips.Models\bin\Debug\net7.0\Clips.Models.pdb
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.csproj.AssemblyReference.cache
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.AssemblyInfoInputs.cache
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.AssemblyInfo.cs
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.csproj.CoreCompileInputs.cache
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.dll
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\refint\Clips.Models.dll
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\Clips.Models.pdb
+D:\VS project\.NET\Clips\Clips.Models\obj\Debug\net7.0\ref\Clips.Models.dll
