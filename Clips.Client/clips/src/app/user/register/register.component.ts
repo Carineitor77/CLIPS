@@ -1,9 +1,6 @@
 import { Component } from '@angular/core';
 import { FormGroup, FormControl, Validators } from '@angular/forms';
-//import { AngularFireAuth } from '@angular/fire/compat/auth';
-//import { AngularFirestore } from '@angular/fire/compat/firestore';
 import { HttpClient } from '@angular/common/http';
-//import axios from 'axios';
 
 @Component({
   selector: 'app-register',
@@ -11,11 +8,7 @@ import { HttpClient } from '@angular/common/http';
   styleUrls: ['./register.component.css']
 })
 export class RegisterComponent {
-  constructor(
-    //private auth: AngularFireAuth,
-    //private db: AngularFirestore,
-    private http: HttpClient
-  ) { }
+  constructor(private http: HttpClient) { }
 
   inSubmission = false;
 
@@ -64,20 +57,7 @@ export class RegisterComponent {
     this.alertColor = 'blue';
     this.inSubmission = true;
 
-    //const { email, password } = this.registerForm.value;
-
     try {
-      // const userCred = await this.auth.createUserWithEmailAndPassword(
-      //   email as string, password as string
-      // );
-      
-      // await this.db.collection('users').add({
-      //   name: this.name.value,
-      //   email: this.email.value,
-      //   age: this.age.value,
-      //   phone: this.phoneNumber.value
-      // });
-
       await this.http.post('https://localhost:5000/api/Auth/RegisterUser', {
         name: this.name.value,
         email: this.email.value,
@@ -86,15 +66,6 @@ export class RegisterComponent {
         confirmPassword: this.confirm_password.value,
         phone: this.phoneNumber.value?.replace(/\D/g, "")
       }).subscribe();
-
-      // axios.post('https://localhost:5000/api/Auth/RegisterUser', {
-      //   name: this.name.value,
-      //   email: this.email.value,
-      //   age: this.age.value,
-      //   password: this.password.value,
-      //   confirmPassword: this.confirm_password.value,
-      //   phone: this.phoneNumber.value
-      // }).then((res) => console.log(res));
     } catch(e) {
       console.error(e);
 
